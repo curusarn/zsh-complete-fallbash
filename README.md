@@ -1,5 +1,7 @@
 # zsh-complete-fallbash
 
+Alt name: zsh-completions-from-bash
+
 ## What
 Use bash completions as a fallback in zsh (for commands that don't have zsh completions)
 
